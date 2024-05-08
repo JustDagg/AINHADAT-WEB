@@ -17,5 +17,5 @@ composer install
 ## XAMPP 
 #### XAMPP Control Panel v3.3.0
 #### PHP 8.2.12 (cli)
-#### phpmyadmin mysql (In project i config port 4306 and you can use ainhadatstore.sql in order to import sql)
+#### phpmyadmin mysql (In project i config port *4306* and you can use *ainhadatstore.sql* in order to import sql)
 
