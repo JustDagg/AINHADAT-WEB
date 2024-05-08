@@ -7,7 +7,7 @@ PHP, MYSQL, XAMPP
     - Export Excel Products in admin_area (export_products.php)
     - CANVAS JS to do STATISTICS in admin_area (list_charts.php)
 
-## Composer version 2.2.23
+## Composer version 2.2.23 https://getcomposer.org/
     - composer.json
     - composer.lock
 ```bash
