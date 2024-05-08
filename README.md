@@ -1,7 +1,5 @@
-# AINHADAT-WEB
+# AINHADAT-WEB (Dagg)
 PHP, MYSQL, XAMPP
-
-# Dagg
 
 ## Technologies Used 
 #### **"phpmailer/phpmailer": "^6.9"** (Receive email when registering for an account)
