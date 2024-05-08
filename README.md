@@ -10,6 +10,7 @@ PHP, MYSQL, XAMPP
 ## Composer version 2.2.23 https://getcomposer.org/
     - composer.json
     - composer.lock
+    
 ```bash
 composer install
 ```
