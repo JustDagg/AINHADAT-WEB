@@ -2,8 +2,8 @@
 PHP, MYSQL, XAMPP
 
 ## Technologies Used 
-#### **"phpmailer/phpmailer": "^6.9"** (Receive email when registering for an account)
-#### **"google/apiclient": "^2.16"** (Oauth2)
+#### *"phpmailer/phpmailer": "^6.9"* (Receive email when registering for an account)
+#### *"google/apiclient": "^2.16"* (Oauth2)
 #### Export Excel Products in admin_area (export_products.php)
 #### CANVAS JS to do STATISTICS in admin_area (list_charts.php)
 
