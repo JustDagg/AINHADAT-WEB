@@ -1,5 +1,5 @@
 # AINHADAT-WEB (Dagg)
-PHP, MYSQL, XAMPP
+WEBSITE MUA BÁN BẤT ĐỘNG SẢN (PHP, MYSQL, XAMPP)
 
 ## Technologies Used 
 #### *"phpmailer/phpmailer": "^6.9"* (Receive email when registering for an account)
